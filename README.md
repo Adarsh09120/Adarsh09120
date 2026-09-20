@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh09120&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh09120" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh09120" alt="adarsh09120" /></a> </p>
+<p align="left"> <a href="https://github.com/Adarsh09120"><img src="https://github-profile-trophy.vercel.app/?username=adarsh09120" alt="adarsh09120" /></a> </p>
 
 - 🔭 I’m currently working on [interview-prep-ai](https://interview-prep-ai-1-8x3x.onrender.com)
 
